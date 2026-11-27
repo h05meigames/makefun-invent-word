@@ -8,7 +8,7 @@ Entry for the [Invent a Word We Need](https://make.fun/bounty/u-deranalabs-inven
 
 ## The word
 
-**typeghost** — the silence left when someone's typing dots vanish and no message ever arrives.
+**sockorphan** — the lone sock left behind after laundry, its partner lost for good.
 
 ## How it works
 
